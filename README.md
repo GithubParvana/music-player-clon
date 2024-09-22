@@ -1,4 +1,4 @@
-# music-player-clon
+# music-player-clone
 
 This repository contains a project clone that is designed for Music Player.
 
